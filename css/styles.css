@@ -21,6 +21,23 @@ body {
   }
 }
 
+#nameInputContainer {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#nameInput {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#submitNameBtn {
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
 .container {
   display: flex;
   flex-direction: column;
